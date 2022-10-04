@@ -1,2 +1,5 @@
 flask
 python 3.8
+cassandra
+Mysql
+Sql
